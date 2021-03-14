@@ -1,0 +1,24 @@
+.shop{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80vw;
+  flex-grow: 2;
+  
+  height: 100vh;
+  
+
+}
+
+.cart{
+  flex-grow: 1;
+  min-height: 10px;
+}
+
+
+.wrap{
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  min-width: 10rem;
+  min-height: 10rem;
+}
