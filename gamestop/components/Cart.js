@@ -4,7 +4,15 @@ import style from '../styles/components/Cart.module.css'
 export default function Cart() {
     return (
         <div className={style.body}>
-            oi
+            <h1>Produtos na cesta:</h1>
+            <ul>
+                <ul>1</ul>
+                <ul>1</ul>
+                <ul>1</ul>
+                <ul>1</ul>
+                <ul>1</ul>
+                <ul>1</ul>
+            </ul>
         </div>
     )
 }
